@@ -1,4 +1,4 @@
-# SENTIMENT ANALYIS
+# SENTIMENT ANALYSIS
 
 #### **This is a code that gets the reviews and make sentiment analysis for the product is good or not. I took logitech G502 computer mouse comments as an example here**
 
